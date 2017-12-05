@@ -1,4 +1,4 @@
-
+													;Leonardo, Foletto 2017
 ;FoleVerb  ver 0.1
 ;A Reverberator based on chapters 22, 23, 24  of the CSound book by Dr. Boulanger; "Designing Multi-Channel Reverberators", John Stautner and Miller Puckette and "A New Approach to Digital Reverberation using Closed Waveguides Networks", Julius O. Smith and "Building the Erbe-Verb: Extending the Feedback Delay Network Reverb for Modular Sythesizer Use" Tom Erbe.
 <CsoundSynthesizer>
